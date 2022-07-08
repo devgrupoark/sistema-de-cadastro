@@ -2,3 +2,9 @@
 
 > Status do projeto: Em desenvolvimento.
 
+Para rodar esse projeto instalar:
+
+GitHub
+Visual Studio Code
+node js
+
