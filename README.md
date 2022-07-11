@@ -6,5 +6,5 @@ Para rodar esse projeto instalar:
 
 GitHub
 Visual Studio Code
-node js
+node js.
 
